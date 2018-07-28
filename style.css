@@ -1,0 +1,25 @@
+.bg-navbar {
+    background-color: #563d7c;
+    color: white;
+}
+.navbar-nav-svg {
+    width: 1rem;
+}
+.welcome-page {
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 2%;
+    background-color: #fff;
+}
+.welcome-title {
+    color: #7952b3;
+}
+.welcome-button {
+    padding: .8rem 2rem;
+}
+.welcome-image {
+    height: 10%;
+}
+.bg-tentang {
+    background-color: #f7f7f7;
+}
